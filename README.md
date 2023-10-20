@@ -11,5 +11,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/FewX9?label=Profile%20Views&style=for-the-badge" />
-  &nbsp;<img src="https://img.shields.io/badge/Profile_Website-IFew.me-red?&logo=burton&link=http://ifew.me/&style=for-the-badge" />
+  &nbsp;<img src="https://img.shields.io/badge/Profile_Website-Click_Me-red?&logo=burton&link=http://ifew.me/&style=for-the-badge" />
 </p>

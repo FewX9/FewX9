@@ -4,10 +4,7 @@
 <h3 align="center">
   A passionate fullstack-developer from Thailand
 </h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fewx9&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fewx9&show_icons=true&locale=en" />
-</p>
+
 <p align="center">
   <img src="https://myreadme.vercel.app/api/embed/fewx9?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 </p>

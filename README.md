@@ -20,7 +20,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FewX9/FewX9/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
